@@ -1,13 +1,14 @@
 html {
   height: 100%;
   width: 100%;
-  font-family: "Titillium Web", sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:rgb(3, 7, 74);
 }
 
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(blue, rgb(248, 245, 239));
 }
 
 button {
@@ -34,4 +35,13 @@ button {
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
+}
+
+.color{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(3, 7, 74);
+}
+
+#tasks {
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
