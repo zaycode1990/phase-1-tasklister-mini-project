@@ -39,9 +39,19 @@ button {
 
 .color{
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: rgb(3, 7, 74);
 }
 
 #tasks {
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
+
+/* .color-red {
+  color: red;
+}
+ .color-blue {
+   color:blue;
+ }
+
+ .color-green {
+   color: green;
+ } */
